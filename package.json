@@ -1,0 +1,23 @@
+{
+    "name": "TypescriptCourse",
+    "version": "1.0.0",
+    "description": "1. Comand for init tsc config\r    ```\r        tsc --init\r    ```\r 2. Compilation\r    ```\r        tsc src/name.ts\r    ```\r 3. See result\r    ```\r        node src/name.js\r    ```\r 4. See result with tsc config\r    ```\r        tsc --watch src/name.ts\r    ```\r 5. Compilation all arquivos\r    ```\r       tsc --watch\r    ```",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yaneth94/TypeScriptCourse.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yaneth94/TypeScriptCourse/issues"
+    },
+    "homepage": "https://github.com/yaneth94/TypeScriptCourse#readme",
+    "dependencies": {
+        "lodash": "^4.17.19"
+    }
+}
