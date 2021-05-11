@@ -18,6 +18,6 @@
     },
     "homepage": "https://github.com/yaneth94/TypeScriptCourse#readme",
     "dependencies": {
-        "lodash": "^4.17.19"
+        "lodash": "^4.17.21"
     }
 }
